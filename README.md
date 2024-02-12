@@ -2,7 +2,7 @@
 
 **About Me**
 
-Hey there! 👋 I'm currently pursuing my master's in business information, and my journey into the world of programming has been nothing short of thrilling. From the moment I delved into the intricacies of coding, I discovered my passion for building robust back-end solutions.
+Hey there! 👋 I'm currently pursuing my master's in business information systems, and my journey into the world of programming has been nothing short of thrilling. From the moment I delved into the intricacies of coding, I discovered my passion for building robust back-end solutions.
 
 **My Tech Stack**
 
