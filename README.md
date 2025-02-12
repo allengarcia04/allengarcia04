@@ -6,9 +6,10 @@ Hey there! 👋 I recently earned my Master's in Business Information Systems, a
 
 **Tech Stack**
 
-Python: My go-to for problem-solving and backend development.
-JavaScript, React, HTML/CSS: Passionate about building intuitive and dynamic frontends.
-Always Learning: Exploring new frameworks and technologies to expand my skill set.
+**Python**: My go-to for problem-solving and backend development.  
+**JavaScript, React, HTML/CSS**: Passionate about building intuitive and dynamic frontends.  
+**Always Learning**: Exploring new frameworks and technologies to expand my skill set.  
+
 
 **Seeking Opportunities**
 
