@@ -1,4 +1,4 @@
-### 🚀 Software Engineer | 🎓  Master's Student in Business Information Systems | Python & Frontend Enthusiast
+### 🚀 Software Engineer | 🎓  Master's in Business Information Systems Graduate | Python & Frontend Enthusiast
 
 **About Me**
 
