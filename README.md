@@ -1,26 +1,24 @@
-### 🚀 Aspiring Software Engineer | 🎓  Master's Student in Business Information Systems | Python Enthusiast
+### 🚀 Software Engineer | 🎓  Master's Student in Business Information Systems | Python & Frontend Enthusiast
 
 **About Me**
 
-Hey there! 👋 I'm currently pursuing my master's in business information systems, and my journey into the world of programming has been nothing short of thrilling. From the moment I delved into the intricacies of coding, I discovered my passion for building robust back-end solutions.
+Hey there! 👋 I recently earned my Master's in Business Information Systems, and I'm excited to embark on my journey as a Software Engineer or Frontend Engineer. My passion lies in crafting efficient, scalable solutions and creating seamless user experiences.
 
-**My Tech Stack**
+**Tech Stack**
 
-💻 Python: My programming love affair ❤️
-
-🌐 JavaScript, HTML/CSS: We have a tolerable relationship 
-
-🚀 Always ready to embrace and learn new technologies / frameworks
+Python: My go-to for problem-solving and backend development.
+JavaScript, React, HTML/CSS: Passionate about building intuitive and dynamic frontends.
+Always Learning: Exploring new frameworks and technologies to expand my skill set.
 
 **Seeking Opportunities**
 
-🔍 I'm on the lookout for a dynamic role in software engineering or front-end / back-end development, and I thrive on the idea of writing elegant and efficient code, especially in Python. However, I'm not just limited to my comfort zone; I'm eager to explore and master new technologies.
+I'm actively looking for a Software Engineer or Frontend Engineer role where I can apply my skills, collaborate with innovative teams, and grow in a tech-driven environment.
 
 **Let's Connect!**
 
 If you're looking for a passionate software engineer who loves turning ideas into reality and is ready to hit the ground running, let's chat! I'm excited about the prospect of contributing to a team that values innovation and continuous improvement.
 
 📧 Email: reneallengarcia1991@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/rene-allen-garcia-982324150/
+🔗 LinkedIn: [https://www.linkedin.com/in/rene-allen-garcia-982324150/](https://www.linkedin.com/in/reneallengarcia/)
 
 Let's build something awesome together! 
